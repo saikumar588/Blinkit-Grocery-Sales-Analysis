@@ -120,8 +120,7 @@ Based on the dashboard:
 - Maintain product availability in categories generating higher sales.
 - Evaluate outlet-level performance to identify opportunities for improvement.
 - Monitor product ratings to maintain customer satisfaction.
-```
-
+  
 ## 🚀 Project Outcome
 
 Developed an interactive Power BI dashboard to analyze grocery sales performance across products, outlet types, outlet sizes, and location tiers.
